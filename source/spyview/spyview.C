@@ -10,10 +10,10 @@
 #include "ImageWindow_Fitting.H"
 #include "ThresholdDisplay.H"
 #include "message.h"
-#include <Fl/fl_ask.H>
+#include <FL/fl_ask.H>
 #include <string.h>
-#include <Fl/Fl_File_Chooser.H>
-#include <Fl/filename.H>
+#include <FL/Fl_File_Chooser.H>
+#include <FL/filename.H>
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <unistd.h>

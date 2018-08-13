@@ -2,8 +2,8 @@
 #define __mypam_h__
 
 extern "C"  {
-#include <pam.h>
-#include <pm.h>
+#include <netpbm/pam.h>
+#include <netpbm/pm.h>
   /* Stupid pam/pgm/pm defines these crappy macros */
   /* They cause severe namespace conflicts with algorithm */
 

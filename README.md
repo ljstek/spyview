@@ -1,3 +1,12 @@
+# spyview linux build fix
+
+I've had some issues while compiling on Arch Linux (primarily include issues due to non-specified header paths and case-sensitivity). This should now build succesfully on linux, provided you install the `netpbm` and `fltk` dependencies.
+
+Build instructions:
+`./configure`
+`make`
+`sudo make install`
+
 # Spyview
 
 A data plotting and exploration program I wrote during my PhD: 

@@ -5,7 +5,7 @@
 #include <FL/Fl.H>
 #include "Fl_Listbox.H"
 #include "spybrowse.h"
-#include <Fl/Fl_File_Chooser.H>
+#include <FL/Fl_File_Chooser.H>
 #include <stdlib.h>
 #include <unistd.h>
 #include <FL/Fl_Double_Window.H>

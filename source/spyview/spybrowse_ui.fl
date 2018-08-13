@@ -8,7 +8,7 @@ decl {\#include "Fl_Listbox.H"} {public
 decl {\#include "spybrowse.h"} {public
 } 
 
-decl {\#include <Fl/Fl_File_Chooser.H>} {public
+decl {\#include <FL/Fl_File_Chooser.H>} {public
 } 
 
 decl {\#include <stdlib.h>} {public

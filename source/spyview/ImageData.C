@@ -1,7 +1,7 @@
 #include <assert.h>
 #include "ImageData.H"
 #include "string.h"
-#include <Fl/filename.H>
+#include <FL/filename.H>
 #include <stdlib.h>
 #include <FL/Fl.H>
 #include <time.h>

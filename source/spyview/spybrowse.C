@@ -2,8 +2,8 @@
 #include "spybrowse_ui.h"
 #include "spybrowse.h"
 #include "message.h"
-#include <Fl/filename.H>
-#include <Fl/fl_ask.H>
+#include <FL/filename.H>
+#include <FL/fl_ask.H>
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <unistd.h>
